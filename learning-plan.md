@@ -1,19 +1,14 @@
 ﻿# Learning Plan
 
-## 主计划
+## 计划入口
 
-每日详细计划：`notes/21-day-daily-plan.md`
+- 阶段路线：`notes/learning-roadmap.md`
+- 每日任务：`notes/21-day-daily-plan.md`
+- 今日打卡：`daily/day-001.md`
 
-## 21 天目标
+## 当前目标
 
-完成一个 Hackathon MVP：AI 辅助 Web3 学习助手。
-
-MVP 最小功能：
-
-- 用户输入 Web3 新手问题
-- 系统输出中文解释
-- 系统自动补充安全提醒
-- 页面保存最近学习记录
+完成 21 天 Hackathon MVP 训练，最终产出一个可展示的 AI 辅助 Web3 学习助手。
 
 ## 当前阶段
 
@@ -29,4 +24,4 @@ MVP 最小功能：
 
 ## 今日下一步
 
-完成 `daily/day-001.md`，把今天的初始化过程写成自己的学习记录。
+完成 `daily/day-001.md`，把初始化过程改写成自己的真实学习记录。

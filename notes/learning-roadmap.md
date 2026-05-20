@@ -2,11 +2,7 @@
 
 ## 当前主线
 
-你的 Hackathon 主方向：AI 辅助 Web3 学习助手。
-
-目标是在 21 天内完成一个可展示的 MVP：用户输入 Web3 新手问题，页面输出中文解释、安全提醒，并保存学习记录。
-
-每日详细计划见：`notes/21-day-daily-plan.md`
+你的 Hackathon 主方向：AI 辅助 Web3 学习助手。每日任务见 `notes/21-day-daily-plan.md`。
 
 ## 第 1 阶段：基础准备
 
