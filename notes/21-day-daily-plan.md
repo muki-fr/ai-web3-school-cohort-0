@@ -33,11 +33,11 @@
 任务：
 - 学会 `git status`、`git add`、`git commit`、`git push`
 - 修改 `README.md`，补充你的学习目标
-- 新建 `daily-logs/day-002.md`
+- 新建 `daily/day-002.md`
 
 交付物：
 - 更新后的 `README.md`
-- `daily-logs/day-002.md`
+- `daily/day-002.md`
 
 ### Day 003：Markdown 写作
 

@@ -6,6 +6,10 @@
 
 Hackathon 项目：AI 辅助 Web3 学习助手。
 
+## 学习目标
+
+用 21 天完成一个可展示的 AI x Web3 Hackathon MVP，并用 GitHub 记录每天的 proof-of-work。
+
 ## 重要文件
 
 - `profile.md`：个人学习画像
